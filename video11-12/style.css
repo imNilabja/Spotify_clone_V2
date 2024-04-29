@@ -1,0 +1,17 @@
+figure{
+    display: flex;
+    display: block;
+
+    width: 1350px;
+    height: auto;
+  flex-wrap: wrap;
+}
+iframe{
+    margin: 20px;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+
+}
